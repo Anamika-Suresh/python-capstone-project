@@ -38,5 +38,18 @@ Bar Chart – Salary expenditure by team & position.
 
 Scatter Plot + Heatmap – Correlation between age and salary.
 
+**Key Insights**
+
+-Majority of employees are aged 20–29, showing a young workforce.
+
+-SG, PF, and PG roles dominate employee positions.
+
+-Los Angeles Clippers have the highest salary expenditure.
+
+-PG earn the most among all roles.
+
+-Age and salary show a weak correlation (0.16), meaning salary is more role-dependent.
+
+
 
 
