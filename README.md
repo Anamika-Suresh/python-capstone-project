@@ -3,7 +3,7 @@ Use Python for data preprocessing, statistical analysis, and visualization in th
 **Tools used in this project is:**
 Python, Pandas, NumPy, Matplotlib, Seaborn.
 
-##Preprocessing
+**Preprocessing**
 
 Imported dataset from ABC Company.xlsx.
 
@@ -13,7 +13,7 @@ Replaced inconsistent Height column values with random integers between 150–18
 
 Exported cleaned dataset to cleaned_data.csv.
 
-##Analysis Task
+**Analysis Task**
 
 Team Distribution – Counted employees in each team and calculated percentage splits.
 
@@ -36,4 +36,5 @@ Pie Chart – Age group distribution.
 Bar Chart – Salary expenditure by team & position.
 
 Scatter Plot + Heatmap – Correlation between age and salary.
+
 
