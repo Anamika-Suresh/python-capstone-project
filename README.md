@@ -1,5 +1,6 @@
 This project analyzes an employee dataset of ABC company to explore workforce distribution, salary trends, and demographic patterns. 
 Use Python for data preprocessing, statistical analysis, and visualization in this project.
+
 **Tools used in this project is:**
 Python, Pandas, NumPy, Matplotlib, Seaborn.
 
@@ -36,5 +37,6 @@ Pie Chart – Age group distribution.
 Bar Chart – Salary expenditure by team & position.
 
 Scatter Plot + Heatmap – Correlation between age and salary.
+
 
 
